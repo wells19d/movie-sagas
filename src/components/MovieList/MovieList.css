@@ -1,0 +1,28 @@
+.movies {
+    display : flex;
+    flex-wrap: wrap;
+    box-shadow: 2px 2px black;
+}
+
+.cardMain{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 25px;
+    margin-right: 5px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-left: 1px;
+    padding-right: 1px;
+    border: 2px solid black;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px 3px gray;
+}
+
+.cardContent{
+    width: 225px;
+    height: 300px;
+}
+
+.imageResizer{
+    width: 185px;
+}
